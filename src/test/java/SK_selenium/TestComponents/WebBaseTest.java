@@ -28,6 +28,7 @@ import SK_selenium.pageObjects.Landingpage;
 
 public class WebBaseTest {
 	
+	// new comments added
 	public WebDriver driver;
 	public Landingpage landingpage;
 
